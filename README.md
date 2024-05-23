@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Raina Adel Mohammed</h1>
+<h1 align="center">Hi , I'm Rania Adel Mohammed</h1>
 <h3 align="center">"Passionate about AI and Data Science | Exploring the intersection of machine learning and data-driven insights"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranyaadel&label=Profile%20views&color=0e75b6&style=flat" alt="ranyaadel" /> </p>
